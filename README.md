@@ -17,9 +17,9 @@ I am a passionate developer currently honing my skills through the **Codust-SIR*
 ---
 
 ### About My Work:
-I am currently in an intensive growth phase. You will notice a mix of repositories in my profile—ranging from comprehensive full-stack applications to modular daily exercises from my curriculum at Codust-SIR.
+> I am currently in an intensive growth phase. You will notice a mix of repositories in my profile—ranging from comprehensive full-stack applications to modular daily exercises from my curriculum at Codust-SIR.
 
-I believe that mastery comes from repetition, so I treat GitHub as my digital lab. Whether it’s a quick CSS layout test or a complex React clone, every commit represents a step forward in my journey to becoming a world-class engineer in 2026."
+> I believe that mastery comes from repetition, so I treat GitHub as my digital lab. Whether it’s a quick CSS layout test or a complex React clone, every commit represents a step forward in my journey to becoming a world-class engineer in 2026."
 
 ---
 

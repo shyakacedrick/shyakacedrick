@@ -39,11 +39,8 @@ I am a passionate developer currently honing my skills through the **Codust-SIR*
 
 ---
 
-###  GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyakacedrick&show_icons=true&theme=radical" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyakacedrick&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
+## Feel free to reach out
 
 ---
 
